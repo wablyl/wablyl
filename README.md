@@ -1,21 +1,18 @@
-Who I am 👋
+Who I am 👋
 
 LinkedIn · Email
 
-Recent Computer Science graduate (B.A.) from UC Santa Cruz with a specialty in systems-level programming and concurrency in C, alongside full-stack web development in React/Flask. Currently building AI-powered applications using retrieval-augmented generation, vector search, and LLM APIs.
+Recent Computer Science graduate (B.A.) from UC Santa Cruz with a specialty in systems-level programming and concurrency in C, alongside full-stack web development in React/Flask. My main focus is backend engineering — API design, databases, concurrency, and performance — and I'm currently extending that into AI-powered applications using retrieval-augmented generation, vector search, and LLM APIs.
 
 🎓 Education
 
 University of California, Santa Cruz — B.A. Computer Science, June 2026
 Relevant coursework: Computer Architecture, Principles of Systems Design, Data Structures and Algorithms, Computer Systems, Embedded Operating Systems, Introduction to Software Engineering
 
-✨ Interests
+✨ Focus
 
-Systems Programming · Concurrency & Synchronization · Full-Stack Web Development · Retrieval-Augmented Generation · Vector Search
+Backend engineering — API design, databases, concurrency, and performance — with a systems programming foundation and growing depth in AI-powered backends (retrieval-augmented generation, vector search).
 
-🛠️ Skills
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 Languages: C, C++, Python, JavaScript, SQL, RISC-V Assembly
 Systems: Linux/UNIX, Bash, pthreads, Docker, QEMU, Valgrind, GDB
