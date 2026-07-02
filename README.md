@@ -23,6 +23,9 @@ AI/ML: OpenAI API, Pinecone, Vector Search, Prompt Engineering
 
 
 🔍 Ask My Docs — Full-stack RAG app: upload documents, ask natural-language questions, get grounded answers with source citations. React, Flask, OpenAI API, Pinecone.
+
 🧵 Multi-Threaded HTTP Server — Concurrent HTTP server in C with a thread-pool design, reader-writer locks, and linearizable request ordering.
+
 🖥️ PintOS Kernel Extension — Re-implemented blocking timer_sleep() and built an in-kernel shell for a teaching OS, using semaphores and interrupt-safe synchronization.
+
 🎵 Price Your Playlist — Full-stack Spotify + Discogs integration built with a 5-person Agile team; owned the Discogs API integration end-to-end.
