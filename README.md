@@ -1,16 +1,31 @@
-## Hi there 👋
+Who I am 👋
 
-<!--
-**wablyl/wablyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn · Email
 
-Here are some ideas to get you started:
+Recent Computer Science graduate (B.A.) from UC Santa Cruz with a specialty in systems-level programming and concurrency in C, alongside full-stack web development in React/Flask. Currently building AI-powered applications using retrieval-augmented generation, vector search, and LLM APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+
+University of California, Santa Cruz — B.A. Computer Science, June 2026
+Relevant coursework: Computer Architecture, Principles of Systems Design, Data Structures and Algorithms, Computer Systems, Embedded Operating Systems, Introduction to Software Engineering
+
+✨ Interests
+
+Systems Programming · Concurrency & Synchronization · Full-Stack Web Development · Retrieval-Augmented Generation · Vector Search
+
+🛠️ Skills
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Languages: C, C++, Python, JavaScript, SQL, RISC-V Assembly
+Systems: Linux/UNIX, Bash, pthreads, Docker, QEMU, Valgrind, GDB
+Web: React, Flask, Node.js, REST APIs, PostgreSQL
+AI/ML: OpenAI API, Pinecone, Vector Search, Prompt Engineering
+
+🚀 Projects
+
+
+🔍 Ask My Docs — Full-stack RAG app: upload documents, ask natural-language questions, get grounded answers with source citations. React, Flask, OpenAI API, Pinecone.
+🧵 Multi-Threaded HTTP Server — Concurrent HTTP server in C with a thread-pool design, reader-writer locks, and linearizable request ordering.
+🖥️ PintOS Kernel Extension — Re-implemented blocking timer_sleep() and built an in-kernel shell for a teaching OS, using semaphores and interrupt-safe synchronization.
+🎵 Price Your Playlist — Full-stack Spotify + Discogs integration built with a 5-person Agile team; owned the Discogs API integration end-to-end.
